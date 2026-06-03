@@ -1,2 +1,5 @@
 .env
+.idea
 dataset.json
+output.html
+output.json
